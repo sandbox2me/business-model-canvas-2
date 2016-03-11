@@ -1,6 +1,6 @@
 # About
 
-[Business Model Canvas](http://startbootstrap.com/template-overviews/sb-admin/) is an open source, tool template for Business Model Canvas base on [Bootstrap](http://getbootstrap.com/).
+Business Model Canvas is an open source, tool template for Business Model Canvas base on [Bootstrap](http://getbootstrap.com/).
 
 ## Getting Started
 
